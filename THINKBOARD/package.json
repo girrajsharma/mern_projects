@@ -1,0 +1,14 @@
+{
+  "name": "thinkboard",
+  "version": "1.0.0",
+  "description": "1. downloading git from\r    url: https://git-scm.com/install/\r 2. install\r    - While installing:\r    - IMPORTANT 👉 Select this option:\r    - “Git from the command line and also from 3rd-party software”",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm install --prefix backend && npm install --prefix frontend && npm run build --prefix frontend",
+    "start": "npm run start --prefix backend"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
