@@ -10,10 +10,16 @@ OPEN CMD
 > git init
 > git add .
 
-\***\*DO THIS ONLY FIRST TIME **\*\*\*****
+\***\*DO THIS ONLY FIRST TIME **\*\*\*\*\*\*\*
 D:\PROJECTS\REACT\1THINKBOARD\THINKBOARD> git config --global user.name "Girraj Sharma"
 D:\PROJECTS\REACT\1THINKBOARD\THINKBOARD> git config --global user.email "info.girraj@gmail.com"
 
 ---
 
 D:\PROJECTS\REACT\1THINKBOARD\THINKBOARD> git commit -m "initial commit"
+
+....
+
+> git add .
+> git commit -m "commit-2"
+> git push
